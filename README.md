@@ -17,7 +17,6 @@ I enjoy understanding algorithms from first principles instead of only learning 
 * Deep Learning
 * Data Analysis
 * Software Engineering
-* Git & GitHub
 
 ---
 
