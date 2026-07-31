@@ -81,4 +81,4 @@ Future goals:
 
 ## Connect with Me
 
-* LinkedIn: *https://www.linkedin.com/in/nima-doulatabadi-farahani-sneep/*
+* LinkedIn: *https://www.linkedin.com/in/nima-doulatabadi-farahani/*
