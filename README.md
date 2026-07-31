@@ -1,23 +1,15 @@
-Repository name
----------------
-nimfarahani1919
+# Hi, I'm Nima 👋
 
-Description
------------
-Computer Engineering student learning Machine Learning, Deep Learning, and AI Engineering.
+## About Me
 
-Visibility
-----------
-Public
+## Current Focus
 
-README
-------
-✔
+## Skills
 
-.gitignore
-----------
-None
+## Featured Projects
 
-License
--------
-None
+## Learning Journey
+
+## GitHub Stats
+
+## Connect with Me
