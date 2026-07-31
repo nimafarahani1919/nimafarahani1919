@@ -23,24 +23,25 @@ I enjoy understanding algorithms from first principles instead of only learning 
 
 ## Skills
 
-### Programming
+### Programming Languages
 
-* Python
-* C
-* C++
+- Python
+- C
+- C++
 
 ### Machine Learning
 
-* NumPy
-* Pandas
-* Scikit-learn
-* Matplotlib
+- Scikit-learn
+- XGBoost
+- NumPy
+- Pandas
+- Matplotlib
 
 ### Tools
 
-* Git
-* GitHub
-* Jupyter Notebook
+- Git
+- GitHub
+- Jupyter Notebook
 
 ---
 
