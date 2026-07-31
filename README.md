@@ -10,31 +10,27 @@ I enjoy understanding algorithms from first principles instead of only learning 
 
 ---
 
-## Current Focus
+## 🎯 Currently Learning
 
-* Python
-* Machine Learning
-* Deep Learning
-* Data Analysis
-* Software Engineering
+- Machine Learning
+- Deep Learning
+- Data Preprocessing
+- Feature Engineering
+- Software Engineering Best Practices
 
 ---
 
-## Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- Python
-- C
-- C++
-
-### Machine Learning
-
-- Scikit-learn
-- XGBoost
-- NumPy
-- Pandas
-- Matplotlib
 
 ### Tools
 
@@ -73,7 +69,11 @@ Future goals:
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
+
+![Nima's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimfarahani1919&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nimfarahani1919&layout=compact&theme=github_dark)
 
 (We'll add GitHub statistics here later.)
 
